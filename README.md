@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am an 18 year old web developer
+Hi, I am a self-taught,creative and hard-working front end developer!
 
 ### Tools
 
