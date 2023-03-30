@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am a self-taught,creative and hard-working front end developer!
+Hi, I am a self-taught,creative and hard-working Full Stack developer!
 
 ### Tools
 
