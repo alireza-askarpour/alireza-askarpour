@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Hi, I am a self-taught,creative and hard-working Full Stack developer!
+## Hi there, I'm Alireza Askarpour 👋
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 ### Tools
 
