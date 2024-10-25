@@ -1,4 +1,4 @@
-# Hi there, I'm Alireza Askarpour 👋
+# Hi there, I'm Alireza Askarpour  - (EEZA) 👋
 
 ![Header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
